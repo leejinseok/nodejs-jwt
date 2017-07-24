@@ -14,3 +14,6 @@ nodejs 기반 JWT 인증 로직
 - middleware (authMiddleware, router.use())
 - router 
 - exports.login, exports.register, exports.check
+
+## Postman address
+- https://www.getpostman.com/collections/2f776dd11ffd435e663d
